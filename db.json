@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "BulbaSaur",
+      "hp": "300",
+      "sprites": {
+        "front": "https://pixelmon.site/wp-content/uploads/2019/12/bulbasaur-150x150.png",
+        "back": "https://pixelmon.site/wp-content/uploads/2019/12/bulbasaur-150x150.png"
+      },
+      "id": 151
     }
   ]
 }
